@@ -19,7 +19,10 @@ Nunc iaculis, dolor eget aliquet consequat, quam neque porttitor turpis, eget so
 
 ## Research
 
-Below are some papers. Clicking opens the PDF.
+My research has focused on proin porta hendrerit sem vitae ultricies. Etiam tincidunt rhoncus justo tempus interdum. Praesent dignissim dignissim lectus vel facilisis. Donec nec erat sodales, elementum nisi ac, pellentesque ante. Maecenas sed nibh quam. Vestibulum tempus interdum scelerisque. Nullam vestibulum tempus purus sit amet pretium.
+
+
+Clicking wlil open the PDF.
 
 - [Paper Title 1](/pdf/paper1.pdf), Conference XYZ, 2024  
 - [Paper Title 2](/pdf/paper2.pdf), Journal ABC, 2023  
