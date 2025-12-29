@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Eva Moses"
-assets/favicon.ico
-
 ---
 
 ## About
