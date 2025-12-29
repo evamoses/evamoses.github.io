@@ -8,6 +8,8 @@ title: "Eva Moses"
 <img src="/assets/eva.jpg" alt="Photo of me" 
      style="width:33%; max-width:280px; float:right; margin-left:20px; margin-bottom:10px;">
 
+I am a recent graduate of [Westminster University](https://westminsteru.edu/), a liberal arts-emphasized private university in Salt Lake City, Utah. I have a BS in Psychology, with an emphasis in Cognitive Sciences. I am now completing the Prerequisite Program for Speech-Language Pathology at [University of Colorado Boulder](https://www.colorado.edu/).
+
 Proin porta hendrerit sem vitae ultricies. Etiam tincidunt rhoncus justo tempus interdum. Praesent dignissim dignissim lectus vel facilisis. Donec nec erat sodales, elementum nisi ac, pellentesque ante. Maecenas sed nibh quam. Vestibulum tempus interdum scelerisque. Nullam vestibulum tempus purus sit amet pretium.
 
 Nunc iaculis, dolor eget aliquet consequat, quam neque porttitor turpis, eget sollicitudin ante metus a arcu. Nam id diam nulla. Vestibulum vel ligula sed mauris tempor tincidunt. Quisque aliquet urna ipsum, et blandit turpis dapibus ac. Maecenas mauris magna, varius non lectus sit amet, suscipit cursus justo. Nulla sit amet pulvinar velit. Praesent et pulvinar eros. Nam elementum nec magna at mollis. Praesent at sodales urna. Quisque sit amet cursus magna, convallis rutrum enim. Cras placerat sollicitudin magna in sollicitudin. Suspendisse et justo ut ligula imperdiet finibus.
