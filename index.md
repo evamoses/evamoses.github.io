@@ -1,7 +1,7 @@
 ---
 layout: default
+title: "Eva Moses"
 ---
-
 
 ## About
 
