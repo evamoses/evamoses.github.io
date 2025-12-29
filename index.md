@@ -9,7 +9,8 @@ title: Home
 
 ## About
 
-![Photo of me](/assets/eva.jpg)
+<img src="/assets/eva.jpg" alt="Photo of me" 
+     style="width:33%; max-width:280px; float:right; margin-left:20px; margin-bottom:10px;">
 
 Proin porta hendrerit sem vitae ultricies. Etiam tincidunt rhoncus justo tempus interdum. Praesent dignissim dignissim lectus vel facilisis. Donec nec erat sodales, elementum nisi ac, pellentesque ante. Maecenas sed nibh quam. Vestibulum tempus interdum scelerisque. Nullam vestibulum tempus purus sit amet pretium.
 
