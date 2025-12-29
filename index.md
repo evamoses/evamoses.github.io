@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Home
 ---
 
-# Eva Moses
-
----
 
 ## About
 
