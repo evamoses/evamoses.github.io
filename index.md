@@ -16,12 +16,9 @@ Nunc iaculis, dolor eget aliquet consequat, quam neque porttitor turpis, eget so
 
 ## Research
 
-My research has focused on proin porta hendrerit sem vitae ultricies. Etiam tincidunt rhoncus justo tempus interdum. Praesent dignissim dignissim lectus vel facilisis. Donec nec erat sodales, elementum nisi ac, pellentesque ante. Maecenas sed nibh quam. Vestibulum tempus interdum scelerisque. Nullam vestibulum tempus purus sit amet pretium.
+My research has focused on proin porta hendrerit sem vitae ultricies. Etiam tincidunt rhoncus justo tempus interdum. Praesent dignissim dignissim lectus vel facilisis. Donec nec erat sodales, elementum nisi ac, pellentesque ante. Maecenas sed nibh quam. Vestibulum tempus interdum scelerisque. Nullam vestibulum tempus purus sit amet pretium. Clicking on a paper title wlil open the PDF.
 
-
-Clicking wlil open the PDF.
-
-- [Measuring Posterior Cingulate Cortex Activity During a Global/Local Task](pdf/paper.pdf), Cognitive Neuroscience Senior Thesis, advised by Prof. [Russ Costa](https://westminsteru.edu/campus-directory/directory-profiles/costa-russ.html), 2025
+- [Measuring Posterior Cingulate Cortex Activity During a Global/Local Task](pdf/paper.pdf), **Cognitive Neuroscience Senior Thesis**, advised by Prof. [Russ Costa](https://westminsteru.edu/campus-directory/directory-profiles/costa-russ.html), 2025
 - [The Moderating Effect of Social Dominance Orientation on Biases Towards Individuals with Autism Spectrum Disorder and Mental Health Outcomes](pdf/paper.pdf), Personality Theories XXX, Prof. [Kelly Asao](https://westminsteru.edu/campus-directory/directory-profiles/asao-kelly.html), 2025
 - [The Effect of Temperature on the Conduction Velocity of the LGN and MGN in the Lumbricus Terrestris](pdf/paper.pdf), Behavioral Neuroscience XXX, Prof. [Krista Todd](https://westminsteru.edu/campus-directory/directory-profiles/todd-krista.html), 2025
 - [The Moderating Effect that Cultural Orientation Has on the Feminization of Poverty](pdf/paper.pdf), Psychology of Women XXX, Prof. [Kelly Asao](https://westminsteru.edu/campus-directory/directory-profiles/asao-kelly.html), 2024
